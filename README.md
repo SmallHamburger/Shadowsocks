@@ -24,13 +24,13 @@ pip install shadowsocks
 
 ```json
 {
-  "server": "0.0.0.0",
-  "server_port": 8388,
-  "password": "J0iheIRbzW2psA3FdBos",
-  "timeout":300,
-  "method": "aes-256-cfb",
-  "fast_open":false,
-  "workers": 1
+    "server": "0.0.0.0",
+    "server_port": 8388,
+    "password": "J0iheIRbzW2psA3FdBos",
+    "timeout":300,
+    "method": "aes-256-cfb",
+    "fast_open":false,
+    "workers": 1
 }
 ```
 
