@@ -54,10 +54,10 @@ pip install shadowsocks
 
 说明:
 
-* `fast_open`：`true` 或 `false`。如果你的服务器 Linux 内核在`3.7+`，可以开启 `fast_open`以降低延迟。
-* `workers`：`workers`数量，默认为 `1`
+* `fast_open`：true 或 false。如果你的服务器 Linux 内核在3.7+，可以开启 fast_open以降低延迟。
+* `workers`：workers数量，默认为 1
 
-以上三项信息在配置 shadowsocks 客户端时需要配置一致，具体说明可查看 shadowsocks 的帮助文档。
+以上信息在配置 shadowsocks 客户端时需要配置一致，具体说明可查看 shadowsocks 的帮助文档。
 
 ## 启动方式
 
@@ -211,7 +211,7 @@ You shadowsocks connection info:
 --------------------------------
 server:      10.0.2.15
 server_port: 8388
-password:    RaskAAcW0IQrVcA7n0QLCEphhng7K4Yc
+password:    J0iheIRbzCEphhng7K4YcW2psA3FdBos
 method:      aes-256-cfb
 --------------------------------
 ```
